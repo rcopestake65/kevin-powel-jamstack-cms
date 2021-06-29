@@ -1,6 +1,8 @@
 ---
 title: Test from CMS
-author: Richarc
+author: Richard
+description: Donec nec justo eget felis facilisis fermentum. Aliquam porttitor
+  mauris sit amet orci. Aenean dignissim pellentesque felis.
 date: 2021-06-29T10:07:01.070Z
 tags:
   - post
