@@ -4,7 +4,7 @@ author: Steve
 description: Steves TEst blow
 date: 2021-06-29T10:49:21.917Z
 tags:
-  - post
+  - featured
 image: /assets/blog/stevo.jpg
 imageAlt: Right to be forgotten
 ---
